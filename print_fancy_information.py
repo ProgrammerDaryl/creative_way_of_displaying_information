@@ -28,3 +28,4 @@ print(age)
 print(place_of_birth)
 
 # print his or her religion in a creative way
+print(religion)
