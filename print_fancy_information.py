@@ -10,6 +10,8 @@ dream_job = input("Enter your dream job here: ")
 age = int(input("Enter your age here: "))
 
 # request the user to enter his or her place of birth
+place_of_birth = input("Enter your place of birth here: ")
+
 # request the user to enter his or her religion
 # print his or her name in a creative way
 # print his or her dream job in a creative way
