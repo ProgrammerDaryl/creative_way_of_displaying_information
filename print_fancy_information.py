@@ -25,4 +25,6 @@ print(dream_job)
 print(age)
 
 # print his or her place of birth in a creative way
+print(place_of_birth)
+
 # print his or her religion in a creative way
