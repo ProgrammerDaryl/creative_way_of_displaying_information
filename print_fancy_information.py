@@ -16,6 +16,7 @@ place_of_birth = input("\033[0;35;47m Enter your place of birth here: ")
 religion = input("\033[1;36;40m Enter your religion here: ")
 
 # print his or her name in a creative way
+print(name)
 # print his or her dream job in a creative way
 # print his or her age in a creative way
 # print his or her place of birth in a creative way
