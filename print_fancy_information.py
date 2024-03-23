@@ -13,6 +13,8 @@ age = int(input("Enter your age here: "))
 place_of_birth = input("Enter your place of birth here: ")
 
 # request the user to enter his or her religion
+religion = input("Enter your religion here: ")
+
 # print his or her name in a creative way
 # print his or her dream job in a creative way
 # print his or her age in a creative way
