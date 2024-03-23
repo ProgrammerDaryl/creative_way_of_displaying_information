@@ -22,5 +22,7 @@ print(name)
 print(dream_job)
 
 # print his or her age in a creative way
+print(age)
+
 # print his or her place of birth in a creative way
 # print his or her religion in a creative way
