@@ -1,19 +1,19 @@
 # pseudocode
 
 # request the user to enter his or her name
-name = input("Enter your name here: ")
+name = input("\033[92m Enter your name here: ")
 
 # request the user to enter his or her dream job
-dream_job = input("Enter your dream job here: ")
+dream_job = input("\033[91m Enter your dream job here: ")
 
 # request the user to enter his or her age
-age = int(input("Enter your age here: "))
+age = int(input("\033[0;36;47m Enter your age here: "))
 
 # request the user to enter his or her place of birth
-place_of_birth = input("Enter your place of birth here: ")
+place_of_birth = input("\033[0;35;47m Enter your place of birth here: ")
 
 # request the user to enter his or her religion
-religion = input("Enter your religion here: ")
+religion = input("\033[1;36;40m Enter your religion here: ")
 
 # print his or her name in a creative way
 # print his or her dream job in a creative way
