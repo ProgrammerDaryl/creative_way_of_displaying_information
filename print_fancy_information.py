@@ -2,7 +2,10 @@
 
 # request the user to enter his or her name
 name = input("Enter your name here: ")
+
 # request the user to enter his or her dream job
+dream_job = input("Enter your dream job here: ")
+
 # request the user to enter his or her age
 # request the user to enter his or her place of birth
 # request the user to enter his or her religion
